@@ -3,6 +3,9 @@
 // The last item you put in the stack is the first item that comes out of the stack
 // functions in a stack: push,pop,peek,length
 
+
+//implement a stack using an array
+
 let letters = []; //this is our stack
 
 let word = "racecar"
